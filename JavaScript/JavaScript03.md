@@ -1,4 +1,4 @@
-# JavaScript02
+# JavaScript03
 
 ## 프로그램의 작성법과 실행법
 
