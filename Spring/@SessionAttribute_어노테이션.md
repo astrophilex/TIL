@@ -1,5 +1,4 @@
 # SessionAttribute
----
 ### @SessionAttribute란?
 모델(model) 정보를 HTTP 세션에 저장해주는 어노테이션이다.
 
